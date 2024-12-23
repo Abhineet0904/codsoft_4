@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <item name="boxStrokeColor">@color/white</item>
+        <item name="hintTextColor">@color/white</item>
+
+    </style>
+
+</resources>
